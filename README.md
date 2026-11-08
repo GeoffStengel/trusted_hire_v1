@@ -8,13 +8,13 @@ Your info on how to navigate around the files & folders will be here so check ba
 
 Website for BOC TJ & CO. A place for you to share website info
 
-👀 Watch Site Being Built As Changes Happen: Link coming soon  👀
+👀 Watch Site Being Built As Changes Happen: https://geoffstengel.github.io/trusted_hire_v1/ 👀
 
 🗺️ Site Map: ✅ index.html Is Main Landing Page
 
-✅ styles.css Is Your Styling Page It Gives Your Site Decorations (in css folder)
+✅ style.css Is Your Styling Page It Gives Your Site Decorations (in css folder)
 
-✅ app.js Is Script For Functions to Make The Scheduler, Count Down etc.. (in js folder)
+✅ script.js Is Script For Functions to Make The Scheduler, Count Down etc.. (in js folder)
 
 ✅ images_logo Folder has variations of your logo
 
