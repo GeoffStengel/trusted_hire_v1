@@ -54,7 +54,7 @@ const audiences = {
     label: "FOR EMPLOYERS",
     title: "Good work starts with good people.",
     description:
-      "Tell us about the role, the skills you need, and your timeline. Call Trusted Hire to discuss your hiring needs and the next steps.",
+      "Tell us about the role, the skills you need, and your timeline. When your hire starts, you pay a one-time fee of 1% of starting hourly pay × 40 hours × 52 weeks. That’s $332.80 at $16/hour, part-time or full-time. We confirm the fee and payment terms before any introduction. Job seekers pay no fee.",
     steps: [
       "Use the hiring planner below.",
       "Prepare your role, schedule, and pay range.",
